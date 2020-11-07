@@ -23,56 +23,64 @@
           "!type": "External",
           "file": [
             "forms",
-            "Welcome_LogIn",
-            "Welcome_LogIn.json"
+            "Login",
+            "Login.json"
           ]
         },
         {
           "!type": "External",
           "file": [
             "forms",
-            "Browse_Restaurants",
-            "Browse_Restaurants.json"
+            "browseRestaurants",
+            "browseRestaurants.json"
           ]
         },
         {
           "!type": "External",
           "file": [
             "forms",
-            "Fav_Restaurants",
-            "Fav_Restaurants.json"
+            "Register",
+            "Register.json"
           ]
         },
         {
           "!type": "External",
           "file": [
             "forms",
-            "Restaurant_Chosen",
-            "Restaurant_Chosen.json"
+            "chosenRestaurants",
+            "chosenRestaurants.json"
           ]
         },
         {
           "!type": "External",
           "file": [
             "forms",
-            "Table_Chosen",
-            "Table_Chosen.json"
+            "chosenTable",
+            "chosenTable.json"
           ]
         },
         {
           "!type": "External",
           "file": [
             "forms",
-            "Confirmation",
-            "Confirmation.json"
+            "confirmation",
+            "confirmation.json"
           ]
         },
         {
           "!type": "External",
           "file": [
             "forms",
-            "Time_Chosen",
-            "Time_Chosen.json"
+            "chosenTime",
+            "chosenTime.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Home",
+            "Home.json"
           ]
         }
       ],
@@ -95,7 +103,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Welcome_LogIn",
+      "firstform": "browseRestaurants",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
