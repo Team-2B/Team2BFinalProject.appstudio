@@ -74,6 +74,14 @@
             "Time_Chosen",
             "Time_Chosen.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Home",
+            "Home.json"
+          ]
         }
       ],
       "configxml": null,
